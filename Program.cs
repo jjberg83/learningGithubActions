@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Prøver å lære Github Actions");
 Console.WriteLine("Lagt til to Worflows nå");
+
+string myName = "Jørund";
