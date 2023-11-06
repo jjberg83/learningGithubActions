@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jjberg/Github/learningGithubActions/learningGithubActions.csproj",
+      "projectUniqueName": "/Users/jjberg/Github/learningGithubActions/learningGithubActions/learningGithubActions.csproj",
       "projectName": "learningGithubActions",
-      "projectPath": "/Users/jjberg/Github/learningGithubActions/learningGithubActions.csproj",
+      "projectPath": "/Users/jjberg/Github/learningGithubActions/learningGithubActions/learningGithubActions.csproj",
       "packagesPath": "/Users/jjberg/.nuget/packages/",
-      "outputPath": "/Users/jjberg/Github/learningGithubActions/obj/",
+      "outputPath": "/Users/jjberg/Github/learningGithubActions/learningGithubActions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jjberg/.nuget/NuGet/NuGet.Config"

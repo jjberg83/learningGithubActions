@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+dHl94ok+joDws0WxlVaxPqvx5K4ttWKL6XZ5M4vfBOuR30K4QJHZCPAI3CuLa4GKknCv6vaPH18k1Oz/V1UA==",
+  "dgSpecHash": "36V4+Ijpc88wt7xJMJ4c9ZBOjl60YVxRYB3/41mfR3SsZGRh2Lu6oFha4XjLyAVvnKAEUv6rmN13SKc/ZkOIfg==",
   "success": true,
-  "projectFilePath": "/Users/jjberg/Github/learningGithubActions/learningGithubActions.csproj",
+  "projectFilePath": "/Users/jjberg/Github/learningGithubActions/learningGithubActions/learningGithubActions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
